@@ -405,6 +405,7 @@ You can see which language is using for app. Curently there are next languages:
 - [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. ![RustIcon]
 - [OpenTerminal](https://github.com/es-kumagai/OpenTerminal) - This is a app for macOS that to open a new Finder window and change the current directory to the folder this app launched. ![SwiftIcon]
 - [Console](https://github.com/macmade/Console) - OS X console application. ![SwiftIcon]
+- [Hyper](https://hyper.is/) - A cross-platform [reactjs](https://reactjs.org/), redux[](https://redux.js.org/), and [xterm.js](https://xtermjs.org/) powered terminal. ![JavascriptIcon]
 
 ### Utilities
 
